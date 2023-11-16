@@ -1,12 +1,12 @@
-body {
-    background: url("/img/Horse.jpg") rgba(0, 0, 0, 0.3);
-    /*background: url("https://img.freepik.com/free-photo/the-horse-graze-on-the-meadow-in-the-carpathian-mountains-misty-landscape-morning-fog-high-in-the-mountains_661209-79.jpg") rgba(0, 0, 0, 0.3);*/
-    background-blend-mode: multiply;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
+/*body {*/
+/*    background: url("/img/Horse.jpg") rgba(0, 0, 0, 0.3);*/
+/*    !*background: url("https://img.freepik.com/free-photo/the-horse-graze-on-the-meadow-in-the-carpathian-mountains-misty-landscape-morning-fog-high-in-the-mountains_661209-79.jpg") rgba(0, 0, 0, 0.3);*!*/
+/*    background-blend-mode: multiply;*/
+/*    background-position: center;*/
+/*    background-size: cover;*/
+/*    background-repeat: no-repeat;*/
 
-}
+/*}*/
 
 .whatsapp:hover {
     background-color: rgb(121, 232, 23) !important;
